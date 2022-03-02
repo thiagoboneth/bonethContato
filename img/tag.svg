@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="297mm" height="210mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 29700 21000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:blue}
+    .fil1 {fill:#009933}
+    .fil2 {fill:yellow}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M7052.4 8214l2926.99 0 356.81 330.12 0 2852.55 -1350.63 1389.33 -2675.65 0 -545.72 -514.57 0 -2721.05 1288.2 -1336.38z"/>
+   </clipPath>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image id="perfilpic.jpg" x="5764.2" y="8214" width="4572" height="4572" xlink:href="tag_Images\tag_ImgID1.png"/>
+  </g>
+  <g id="_2171856552384">
+   <g>
+    <rect class="fil0" transform="matrix(0.707107 0.707107 -0.286461 0.286461 18207.5 10034.5)" width="304.27" height="2857.5" rx="152.14" ry="152.14"/>
+    <rect class="fil1" transform="matrix(0.707107 0.707107 -0.286461 0.286461 18421.5 10248.4)" width="304.27" height="2857.5" rx="152.14" ry="152.14"/>
+   </g>
+   <rect class="fil2" transform="matrix(0.707107 0.707107 -0.206671 0.206671 18200.5 10255.5)" width="304.27" height="2857.5" rx="152.14" ry="152.14"/>
+  </g>
+ </g>
+</svg>
